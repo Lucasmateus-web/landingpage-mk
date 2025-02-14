@@ -1,6 +1,4 @@
-Aqui está uma descrição que você pode usar no GitHub para o seu projeto:
 
----
 
 **Mortal Kombat: O Filme | CineMax**
 
@@ -16,15 +14,3 @@ Este projeto é uma página web dedicada ao filme *Mortal Kombat* (2021), desenv
 - **HTML5**: Estruturação da página.
 - **CSS3**: Estilização e design responsivo.
 - **Bootstrap Icons**: Ícones para a barra de pesquisa e botões interativos.
-
-### Como Utilizar:
-1. Clone o repositório.
-2. Abra o arquivo `index.html` no seu navegador.
-3. Explore a página e interaja com os elementos disponíveis.
-
-### Contribuições:
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests para melhorar o projeto.
-
----
-
-Essa descrição é clara e informativa, destacando as principais características e funcionalidades do projeto. Se precisar de mais ajustes, é só avisar!
